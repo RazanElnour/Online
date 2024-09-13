@@ -1,0 +1,394 @@
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "/shop/payment"
+msgstr "/تسوق/دفع"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.show_sign_in11
+msgid "<b style=\"font-size: 24px;\">Booking</b>"
+msgstr "<b style=\"font-size: 24px;\">الحجز</b>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<br/>\n"
+"                                                    <span style=\"line-height:50px;\">No Of Rooms</span>"
+msgstr "<br/>\n"
+"                                                    <span style=\"line-height:50px;\">عدد الغرف</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "<br/>\n"
+"                                            <br/>\n"
+"                                            <strong>Grand Total:</strong>"
+msgstr "<br/>\n"
+"                                            <br/>\n"
+"                                            <strong>الإجمالي:</strong>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "<br/>\n"
+"                                            <br/>\n"
+"                                            <strong>Taxes:</strong>"
+msgstr "<br/>\n"
+"                                            <br/>\n"
+"                                            <strong>الضرائب:</strong>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "<i class=\"fa fa-arrow-right\"/> Add payment providers"
+msgstr "<i class=\"fa fa-arrow-right\"/> إضافة مقدمي خدمات الدفع"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.total123
+msgid "<span class=\"col-xs-6 text-right h4 mt0\">Total:</span>"
+msgstr "<span class=\"col-xs-6 text-right h4 mt0\">الإجمالي:</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.total123
+msgid "<span class=\"col-xs-6 text-right text-muted\" title=\"Taxes may be updated after providing shipping address\"> Taxes:</span>"
+msgstr "<span class=\"col-xs-6 text-right text-muted\" title=\"يمكن تحديث الضرائب بعد تقديم عنوان الشحن\"> الضرائب:</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.total123
+msgid "<span class=\"col-xs-6 text-right text-muted\">Subtotal:</span>"
+msgstr "<span class=\"col-xs-6 text-right text-muted\">الفرعي:</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "<span class=\"fa fa-long-arrow-left\"/>\n"
+"                                            Back to Booking"
+msgstr "<span class=\"fa fa-long-arrow-left\"/>\n"
+"                                            العودة إلى الحجز"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<span class=\"h4\" style=\"margin-right:5px;color:#fff;\">Checkin Date</span>"
+msgstr "<span class=\"h4\" style=\"margin-right:5px;color:#fff;\">تاريخ الوصول</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<span class=\"h4\" style=\"margin-right:5px;margin-left:20px;color:#fff;\">Checkout Date</span>"
+msgstr "<span class=\"h4\" style=\"margin-right:5px;margin-left:20px;color:#fff;\">تاريخ المغادرة</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<span style=\"color:#114052\">Image</span>"
+msgstr "<span style=\"color:#114052\">صورة</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<span style=\"line-height:50px;margin-left:32px;\">Children</span>"
+msgstr "<span style=\"line-height:50px;margin-left:32px;\">الأطفال</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "<span style=\"line-height:50px;margin-left:52px;\">Adult</span>"
+msgstr "<span style=\"line-height:50px;margin-left:52px;\">البالغين</span>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "<strong>Total :</strong>"
+msgstr "<strong>الإجمالي :</strong>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "<strong>Total Amout:</strong>"
+msgstr "<strong>الإجمالي:</strong>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Adult :-"
+msgstr "بالغ :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Arrival Date :-"
+msgstr "تاريخ الوصول :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Bill To:"
+msgstr "فاتورة إلى:"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Billing Information"
+msgstr "معلومات الفواتير"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Children :-"
+msgstr "الأطفال :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "City"
+msgstr "مدينة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Company\n"
+"                                                Name"
+msgstr "اسم الشركة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Confirm Order <span class=\"fa fa-chevron-right\"/>"
+msgstr "تأكيد الطلب <span class=\"fa fa-chevron-right\"/>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Confirmation\n"
+"                                <span class=\"chevron\"/>"
+msgstr "تأكيد\n"
+"                                <span class=\"chevron\"/>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Confirmed"
+msgstr "مؤكد"
+
+#. module: hotel_online
+#: model:ir.model,name:hotel_online.model_res_country
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Country"
+msgstr "دولة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Country..."
+msgstr "دولة..."
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Departure Date :-"
+msgstr "تاريخ المغادرة :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "No of Days"
+msgstr "عدد الأيام"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "No of Rooms"
+msgstr "عدد الغرف"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "No. of nights :-"
+msgstr "عدد الليالي :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Order"
+msgstr "طلب"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Pay Now"
+msgstr "ادفع الآن"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Pay Now <span class=\"fa fa-chevron-right\"/>"
+msgstr "ادفع الآن <span class=\"fa fa-chevron-right\"/>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Pay with"
+msgstr "ادفع باستخدام"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Payment\n"
+"                                <span class=\"chevron\"/>"
+msgstr "الدفع\n"
+"                                <span class=\"chevron\"/>"
+
+#. module: hotel_online
+#: model:ir.model.fields,field_description:hotel_online.field_hotel_reservation__payment_acquirer_id
+msgid "Payment Acquirer"
+msgstr "مقدمو خدمات الدفع"
+
+#. module: hotel_online
+#: model:ir.model,name:hotel_online.model_payment_transaction
+msgid "Payment Transaction"
+msgstr "معاملة الدفع"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Phone"
+msgstr "الهاتف"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Plants: image 1 0f 4 thumb"
+msgstr "النباتات: صورة 1 من 4"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Price"
+msgstr "السعر"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Proceed to Payment\n"
+"                                            <span class=\"fa fa-long-arrow-right\"/>"
+msgstr "المتابعة إلى الدفع\n"
+"                                            <span class=\"fa fa-long-arrow-right\"/>"
+
+#. module: hotel_online
+#: model:ir.model,name:hotel_online.model_hotel_reservation
+msgid "Reservation"
+msgstr "الحجز"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Reservation - Confirmed"
+msgstr "الحجز - مؤكد"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Return to Cart"
+msgstr "العودة إلى السلة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Review Order\n"
+"                                <span class=\"chevron\"/>"
+msgstr "مراجعة الطلب\n"
+"                                <span class=\"chevron\"/>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Review Your Booking"
+msgstr "مراجعة حجزك"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "Room Type"
+msgstr "نوع الغرفة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Room Type :-"
+msgstr "نوع الغرفة :-"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.booking_show
+msgid "Room-1"
+msgstr "غرفة-1"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Rooms"
+msgstr "غرف"
+
+#. module: hotel_online
+#: model:ir.model.fields,field_description:hotel_online.field_payment_transaction__sale_order_id
+msgid "Sale Order"
+msgstr "طلب بيع"
+
+#. module: hotel_online
+#: model:ir.model.fields,field_description:hotel_online.field_hotel_reservation__access_token
+msgid "Security Token"
+msgstr "رمز الأمان"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.product_show
+msgid "Select A Room :"
+msgstr "اختر غرفة :"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Ship To:"
+msgstr "الشحن إلى:"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Ship to the same address"
+msgstr "الشحن إلى نفس العنوان"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Shipping\n"
+"                                &amp; Billing\n"
+"                                <span class=\"chevron\"/>"
+msgstr "الشحن\n"
+"                                &amp; الفواتير\n"
+"                                <span class=\"chevron\"/>"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.payment123
+msgid "Shop - Select Payment Acquirer"
+msgstr "المتجر - اختر مزود الدفع"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "State / Province"
+msgstr "الولاية / المقاطعة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "State / Province..."
+msgstr "الولاية / المقاطعة..."
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Street"
+msgstr "الشارع"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.confirmation1
+msgid "Thank you for your order."
+msgstr "شكراً لك على طلبك."
+
+#. module: hotel_online
+#: model:ir.model.fields,field_description:hotel_online.field_hotel_reservation__payment_tx_id
+msgid "Transaction"
+msgstr "معاملة"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "VAT\n"
+"                                                Number"
+msgstr "ضريبة القيمة المضافة\n"
+"                                                الرقم"
+
+#. module: hotel_online
+#: model:ir.model,name:hotel_online.model_website
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Your Address"
+msgstr "عنوانك"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Your Name"
+msgstr "اسمك"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "Zip /\n"
+"                                                Postal Code"
+msgstr "الرمز البريدي /\n"
+"                                                الرمز البريدي"
+
+#. module: hotel_online
+#: model_terms:ir.ui.view,arch_db:hotel_online.res_partner_show
+msgid "or"
+msgstr "أو"
